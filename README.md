@@ -18,6 +18,7 @@ This repository contains code for a movie recommendation system using collaborat
 
 ### Repository Structure
 
+```
 MyMovieRecommendation/
 │
 ├── data/
@@ -40,8 +41,8 @@ MyMovieRecommendation/
 ├── requirements.txt
 │
 ├── README.md
-
 ```
+
 
 ## Introduction
 
@@ -54,6 +55,7 @@ To run the code in this project, you need Python and several libraries. You can 
 ```bash
 pip install -r requirements.txt
 ```
+
 
 ## Usage
 
