@@ -118,8 +118,3 @@ If you'd like to contribute to this project, you're welcome to do so! You can he
 ## License
 
 This project is licensed under the MIT License. You can find the full license details in the [LICENSE](LICENSE) file.
-
-```
-
-In the "Results" section, I've included placeholders for the plots of the distribution of true ratings and prediction errors. You can replace `"path_to_image1.png"` and `"path_to_image2.png"` with the actual paths to your generated plots.
-```
